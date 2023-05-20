@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+.login_div1, .login_div2{
+    text-align: center;
+    padding: 10px;
+    float: none;
+}
+
+#player1_nm_input{
+    background: lightblue;
+    border-color: aquamarine;
+    border-width: 3px;
+}
+
+#player2_nm_input{
+    background: pink;
+    border-color: plum;
+    border-width: 3px;
+}
