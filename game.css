@@ -18,3 +18,24 @@ body{
     border-color: plum;
     border-width: 3px;
 }
+h2{
+    font-size: 30px;
+
+}
+#output{
+    background: white;
+    border-radius: 20px;
+    border-top: 10px teal;
+    padding: 10px;
+    float: none;
+    text-align: center;
+}
+#boody{
+    background: teal;
+}
+#num_1{
+    background: thistle;
+}
+#num_2{
+    background: lavender;
+}
